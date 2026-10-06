@@ -1,6 +1,6 @@
 # Title: Genetic History of First Millennium CE Populations in Central Asia
 
-This repository contains the scripts and parameter files for the 1MCE project, which uses unpublished and published ancient genomes (the Allen Ancient DNA Resource (AADR v66)) to study the genetic ancestry of individuals from Central Asia dated to the first millennium CE. The analyses: Principal component analysis (smartpca) projects ancient individuals onto axes of present-day genetic variation, ADMIXTURE estimates ancestry proportions without a predefined model, and qpAdm tests explicit admixture models with rotating sets of sources. Genotype data are not included; 
+This repository contains the scripts and parameter files for the 1MCE project, which uses unpublished and published ancient genomes (the Allen Ancient DNA Resource (AADR v66)) to study the genetic ancestry of individuals from Central Asia dated to the first millennium CE. The analyses: Principal component analysis (smartpca) projects ancient individuals onto present-day genetic variation, ADMIXTURE estimates ancestry proportions without a predefined model, and qpAdm tests explicit admixture models with rotating sets of sources. Genotype data are not included.
 
 ## Project context
 
