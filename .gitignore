@@ -1,0 +1,24 @@
+# Exclude data files — if they are too large for Git
+*.csv
+*.tsv
+*.xlsx
+*.pdf
+data/raw/
+data/processed/
+
+# Exclude genotypes data
+*.geno
+*.snp
+*.bed
+*.bim
+*.fam
+*.bam
+*.bai
+*.vcf.gz
+
+# Exclude OS files
+.DS_Store
+*~
+
+# Exclude virtual environment
+.venv/
